@@ -30,13 +30,7 @@ O projeto utiliza autenticação SPA com Laravel Sanctum baseada em sessão/cook
 - Rotas protegidas
 - API REST
 
-## ⚙️ Como rodar
 
-### Backend
+📌 Status
 
-```bash
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve
+Projeto em desenvolvimento.
